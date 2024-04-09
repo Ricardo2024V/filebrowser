@@ -16,7 +16,7 @@ filebrowser provides a file managing interface within a specified directory and 
 
 url: https://demo.filebrowser.org/
 
-credentials: `demo`/`demo`
+credentials: `JOSE.1234`/`JOSE.1234`
 
 ## Features
 
